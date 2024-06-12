@@ -11,7 +11,7 @@ export const StatsCard = ({ markupClass }: CardProps) => {
       description={
         <>
           Open <span className="highlight">@CryptoBot</span>, go to{' '}
-          <span className="highlight">Crypto Pay</span> and{' '}
+          <span className="highlight">Day Pay</span> and{' '}
           <span className="highlight">My Apps</span>, <br />
           App Name to get Statistics
         </>

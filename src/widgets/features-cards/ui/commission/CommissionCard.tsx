@@ -11,7 +11,7 @@ export const CommissionCard = ({ markupClass }: CardProps) => {
       description={
         <>
           Open <span className="highlight">@CryptoBot</span>, go to{' '}
-          <span className="highlight">Crypto Pay</span> and tap Create App to{' '}
+          <span className="highlight">DAV Pay</span> and tap Create App to{' '}
           get API Token
         </>
       }

@@ -171,7 +171,7 @@ const CommunityBlock = () => {
   return (
     <section className={styles.community} id="how-to-start">
       <h2 className={styles.heading}>
-        Quick start using <span className={styles.blueText}>Crypto Pay</span>
+        Quick start using <span className={styles.blueText}>Dav Pay</span>
       </h2>
       <Step
         heading="Authorizing your app"
@@ -192,7 +192,7 @@ const CommunityBlock = () => {
             Open <Highlight>@CryptoBot</Highlight>
           </ListItem>
           <ListItem>
-            Go to <Highlight>Crypto Pay</Highlight>
+            Go to <Highlight>Dav Pay</Highlight>
           </ListItem>
           <ListItem>
             Tap <Highlight>Create App</Highlight>

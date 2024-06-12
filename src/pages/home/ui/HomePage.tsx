@@ -41,7 +41,7 @@ const MainBlock = () => (
       <main className={styles.main}>
         <Description theme="auto" className={styles.text}>
           One of the most trusted <br />
-          Withdrwal and Deposit Service Online.
+          Withdrwal and Deposit Service online.
         </Description>
         <AnchorButton kind="general" href={`#${Section.USE_CASES}`}>
           Get started
@@ -203,7 +203,7 @@ const CommunityBlock = () => {
         </ol>
       </Step>
       <Step
-        heading={<>Crypto Pay API&nbsp;Request</>}
+        heading={<>DAV Pay API&nbsp;Request</>}
         image={
           <Image
             className={styles.apiRequestImage}

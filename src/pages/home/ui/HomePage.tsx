@@ -87,8 +87,8 @@ const UseCasesBlock = () => (
         imagePath="/images/usecases/channels-integration.png"
         heading={
           <>
-            <span className={styles.blueText}>Instant Auto&nbsp;Sales:</span>{' '}
-            Boost&nbsp;conversion
+            <span className={styles.blueText}>Instant Service&nbsp;:</span>{' '}
+            Deposit in&nbsp;seconds
           </>
         }
         description="Immediately deliver digital products and services to your users."
@@ -99,7 +99,7 @@ const UseCasesBlock = () => (
         imagePath="/images/usecases/instant-auto-sales.png"
         heading={
           <>
-            <span className={styles.blueText}>Channels integration:</span>{' '}
+            <span className={styles.blueText}>Fast Settlements:</span>{' '}
             Seamless access
           </>
         }
@@ -111,8 +111,8 @@ const UseCasesBlock = () => (
         imagePath="/images/usecases/endless-customization.png"
         heading={
           <>
-            <span className={styles.blueText}>Endless customization</span> with
-            Webhooks
+            <span className={styles.blueText}>Endless Transactions</span> with
+            DAV
           </>
         }
         description="Receive successful payment notifications in real&#8209;time. Integrate to any scenario of your service."
@@ -203,7 +203,7 @@ const CommunityBlock = () => {
         </ol>
       </Step>
       <Step
-        heading={<>DAV Pay API&nbsp;Request</>}
+        heading={<>Crypto Pay API&nbsp;Request</>}
         image={
           <Image
             className={styles.apiRequestImage}
@@ -280,7 +280,7 @@ const APIBlock = () => {
           height={2036}
         />
         <div className={styles.content}>
-          <h2 className={styles.heading}>Crypto Pay API</h2>
+          <h2 className={styles.heading}>Dav Pay API</h2>
           <p className={styles.paragraph}>
             Explore available methods and types and integrate them in any
             programming language.

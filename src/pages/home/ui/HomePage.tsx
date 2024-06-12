@@ -35,7 +35,7 @@ const MainBlock = () => (
       <header className={styles.header}>
         <Heading theme="auto" level="h1" className={styles.text}>
           Most Trusted{' '}
-          <span level="h2" className={styles.blueText}>Withdrwal &&nbsp;Deposit</span> Service!
+          <span className={styles.blueText}>Withdrwal &&nbsp;Deposit</span> Service!
         </Heading>
       </header>
       <main className={styles.main}>

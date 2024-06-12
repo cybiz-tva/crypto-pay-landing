@@ -34,8 +34,8 @@ const MainBlock = () => (
     <div className={styles.ctaContainer}>
       <header className={styles.header}>
         <Heading theme="auto" level="h1" className={styles.text}>
-          Most Trusted{' '}
-          <span className={styles.blueText}>Withdrwal &&nbsp;Deposit</span> Service!
+          Instant Transfers with{' '}
+          <span className={styles.blueText}>DAV&nbsp;Fintech!</span>
         </Heading>
       </header>
       <main className={styles.main}>

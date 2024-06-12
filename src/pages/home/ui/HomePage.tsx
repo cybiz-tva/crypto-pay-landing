@@ -35,7 +35,7 @@ const MainBlock = () => (
       <header className={styles.header}>
         <Heading theme="auto" level="h1" className={styles.text}>
           Most Trusted{' '}
-          <span className={styles.blueText}>Withdrwal &&nbsp;Deposit</span>Service!
+          <span level="h2" className={styles.blueText}>Withdrwal &&nbsp;Deposit</span> Service!
         </Heading>
       </header>
       <main className={styles.main}>
@@ -61,7 +61,7 @@ const MainBlock = () => (
           ))}
         </div>
         <Description theme="auto" className={styles.text}>
-          Popular bots use Crypto Pay
+          Popular brands use DavFin
         </Description>
       </footer>
     </div>

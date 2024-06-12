@@ -34,8 +34,8 @@ const MainBlock = () => (
     <div className={styles.ctaContainer}>
       <header className={styles.header}>
         <Heading theme="auto" level="h1" className={styles.text}>
-          Crypto payments for{' '}
-          <span className={styles.blueText}>telegram&nbsp;bots</span>
+          Most Trusted{' '}
+          <span className={styles.blueText}>Withdrwal & &nbsp;Deposits</span>
         </Heading>
       </header>
       <main className={styles.main}>

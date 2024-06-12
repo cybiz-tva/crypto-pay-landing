@@ -40,8 +40,8 @@ const MainBlock = () => (
       </header>
       <main className={styles.main}>
         <Description theme="auto" className={styles.text}>
-          Seamlessly accept crypto payments <br />
-          in your Telegram bots and services.
+          One of the most trusted <br />
+          Withdrwal and Deposit Service Online.
         </Description>
         <AnchorButton kind="general" href={`#${Section.USE_CASES}`}>
           Get started
